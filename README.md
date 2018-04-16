@@ -2,11 +2,11 @@
 # An Emotion Detector by Facial Expression for User Experence Evaluation
 This project won the 2nd runner-up in 2017 Hang-Seng Bank Fintech
 
-1) Face Detector:
+Step 1: Face Detector:
 
 Use 'detector.py' and xml file to detect human face in arbitary photos.
 
-2) Facial Expression Recognition: 
+Step 2: Facial Expression Recognition: 
 
 Use pretrained googlenet or vggnet to finetune on facial expression data.
 
