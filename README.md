@@ -1,6 +1,7 @@
 # FaceCheck
 # An Emotion Detector by Facial Expression for User Experence Evaluation
-# This project wins 2nd runner-up in 2017 Hang-Seng Bank Fintech
+This project wins 2nd runner-up in 2017 Hang-Seng Bank Fintech
+
 1. Face Detector:
 
 Use 'detector.py' and xml file to detect human face in arbitary photos.
